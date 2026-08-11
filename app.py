@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hello, DSC !'
+    return 'Hello, DSC 한글입니다. !'
